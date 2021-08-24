@@ -1,0 +1,15 @@
+- wood-floor-simple-1
+http://www.blenderinsight.com/material-for-blender-2-8x-cycles/nggallery/textures2_8/wood-materials-for-2-8x-cycles/thumbnails
+
+- tree material
+https://www.youtube.com/watch?v=JnF8k1f9Vgs
+
+- grass material - Christopher Bennett
+https://blender.stackexchange.com/questions/182865/tight-grass-procedural-bump-texture
+
+# Blender Kit
+- grass - Rex Hans
+https://www.blenderkit.com/asset-gallery-detail/615ea9a9-e3f8-4668-a601-548701d5e334/
+- bushes - Daniel Wagner
+https://www.blenderkit.com/asset-gallery-detail/6c3926c5-19f7-4ab8-95f5-f39538865ae0/
+https://www.blenderkit.com/asset-gallery-detail/0a76bed5-7472-4b1d-a93c-12fca05fa840/
