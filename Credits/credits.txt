@@ -1,11 +1,18 @@
-- wood-floor-simple-1
+- wood-floor-simple-1 - Joakim Tornhill (Blender Insight)
 http://www.blenderinsight.com/material-for-blender-2-8x-cycles/nggallery/textures2_8/wood-materials-for-2-8x-cycles/thumbnails
 
-- tree material
+- tree material - Ryan King Art
 https://www.youtube.com/watch?v=JnF8k1f9Vgs
 
 - grass material - Christopher Bennett
 https://blender.stackexchange.com/questions/182865/tight-grass-procedural-bump-texture
+
+- web material - Sam Bowman
+https://www.youtube.com/watch?v=nq_Xz1yHpHY
+
+- cardboard material
+https://www.reddit.com/r/blender/comments/ctl39a/procedural_cardboard_help_looking_for_a_node_to/
+https://preview.redd.it/c6xz8iogkuh31.jpg?auto=webp&s=237e8bc37e3a119d81b3cfb5f1e56802654e6f5b
 
 # Blender Kit
 - grass - Rex Hans
@@ -13,3 +20,7 @@ https://www.blenderkit.com/asset-gallery-detail/615ea9a9-e3f8-4668-a601-548701d5
 - bushes - Daniel Wagner
 https://www.blenderkit.com/asset-gallery-detail/6c3926c5-19f7-4ab8-95f5-f39538865ae0/
 https://www.blenderkit.com/asset-gallery-detail/0a76bed5-7472-4b1d-a93c-12fca05fa840/
+- bin - André Oliveira
+https://www.blenderkit.com/asset-gallery-detail/25b82c32-cc32-44ef-8173-ae922522f66d/
+- chest - Robert Restu Pambudi
+https://www.blenderkit.com/asset-gallery-detail/4d8d6b8b-2082-487e-8acc-9f99a965ffe6/
