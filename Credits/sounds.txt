@@ -17,8 +17,31 @@ https://freesound.org/people/JamesCato101/sounds/542342/
 - steps - Ziggler_Games (CC3 license)
 https://freesound.org/people/Ziggler_Games/sounds/464338/
 
+- door_close - o_ciz
+https://freesound.org/people/o_ciz/sounds/475488/
+
+- hmm - esperar
+https://freesound.org/people/esperar/sounds/170778/
+
+- wings_flapping - tommy_mooney
+https://freesound.org/people/tommy_mooney/sounds/386706/
+
+- ahs - esperar
+https://freesound.org/people/esperar/sounds/170783/
+
+- pop - lem120
+https://freesound.org/people/lem120/sounds/567087/
+
+- landslide - bikesnbassboi (reversed)
+https://freesound.org/people/bikesnbassboi/sounds/543837/
+
+- sticking_tongue_out - pfranzen
+https://freesound.org/people/pfranzen/sounds/628834/
+
+
 # http://www.findsounds.com
 - sigh
     http://www.francesjane.com/sigh.wav
 
 # online-audio-converter.com
+# mp3cut.net
