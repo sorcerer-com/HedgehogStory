@@ -32,6 +32,9 @@ https://freesound.org/people/esperar/sounds/170783/
 - pop - lem120
 https://freesound.org/people/lem120/sounds/567087/
 
+- gasp - GentlemanWalrus
+https://freesound.org/people/GentlemanWalrus/sounds/180005/
+
 - landslide - bikesnbassboi (reversed)
 https://freesound.org/people/bikesnbassboi/sounds/543837/
 
@@ -40,6 +43,12 @@ https://freesound.org/people/pfranzen/sounds/628834/
 
 - steps_2 - falcospizaetus
 https://freesound.org/people/falcospizaetus/sounds/489948/
+
+- nom - chestnutjam
+https://freesound.org/people/chestnutjam/sounds/399289/
+
+- oh_surprise - jburunet
+https://freesound.org/people/jburunet/sounds/460921/
 
 
 # http://www.findsounds.com
