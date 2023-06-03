@@ -50,6 +50,23 @@ https://freesound.org/people/chestnutjam/sounds/399289/
 - oh_surprise - jburunet
 https://freesound.org/people/jburunet/sounds/460921/
 
+- kids_playing - softwalls (CC4 license)
+https://freesound.org/people/softwalls/sounds/463881/
+
+- sniffing - Tats14 (CC3 license)
+https://freesound.org/people/Tats14/sounds/408839/
+
+- walking_in_glass - Leroy.Khoza
+https://freesound.org/people/Leroy.Khoza/sounds/538170/
+
+- licking - se2001
+https://freesound.org/people/se2001/sounds/464021/
+
+- ahhhhmmm - Topschool
+https://freesound.org/people/Topschool/sounds/361073/
+
+- panting - Windwalk_Entertainment
+https://freesound.org/people/Windwalk_Entertainment/sounds/566400/
 
 # http://www.findsounds.com
 - sigh
@@ -57,3 +74,5 @@ https://freesound.org/people/jburunet/sounds/460921/
 
 # online-audio-converter.com
 # mp3cut.net
+
+- shoo_shoo - Me
