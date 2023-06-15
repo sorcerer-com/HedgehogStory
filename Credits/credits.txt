@@ -10,7 +10,7 @@ https://blender.stackexchange.com/questions/182865/tight-grass-procedural-bump-t
 - web material - Sam Bowman
 https://www.youtube.com/watch?v=nq_Xz1yHpHY
 
-- cardboard material
+- cardboard material - HumbleReplacement123
 https://www.reddit.com/r/blender/comments/ctl39a/procedural_cardboard_help_looking_for_a_node_to/
 https://preview.redd.it/c6xz8iogkuh31.jpg?auto=webp&s=237e8bc37e3a119d81b3cfb5f1e56802654e6f5b
 
@@ -30,3 +30,5 @@ https://www.blenderkit.com/asset-gallery-detail/4d8d6b8b-2082-487e-8acc-9f99a965
 
 
 sheepit-renderfarm
+
+credits text: Segoe Print (italic) 48, 28(bold), 20, 16
